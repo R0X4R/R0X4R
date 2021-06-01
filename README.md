@@ -12,15 +12,9 @@ I'm having experience in ``Web-app security``, ``Mobile app security``, ``API se
 
 I have secured over 60+ companies which includes some big tech companies like Google, Nokia, TripAdvisor, SAP Concour, Dell Technologies, Seagate, Mastercard, Netgear, and many more. Also I have 2 years experience in WordPress development and graphics designing I have made 12+ websites using wordpress and also edit and make graphics as my side hobby.
 
-### Key Skills
 
-<img src="https://progress-bar.dev/98/?title=WAPT &width=120&color=B53737">
-<img src="https://progress-bar.dev/98/?title=VAPT &width=120&color=000c0d">
-<img src="https://progress-bar.dev/95/?title=Android Pentesting &width=120&color=ff084a">
-<img src="https://progress-bar.dev/95/?title=WordPress &width=120&color=0da2ff">
-<img src="https://progress-bar.dev/75/?title=Bash &width=120&color=0859c6">
-<img src="https://progress-bar.dev/75/?title=Python &width=120&color=0e2433">
-<img src="https://progress-bar.dev/75/?title=Photoshop &width=120&color=6787e7"><br>
+
+
 
 ### Social Media
 
