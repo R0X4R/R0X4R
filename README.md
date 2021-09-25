@@ -32,12 +32,15 @@ func GetAbout() About {
 ```
 
 ```js
-$ cat experience
+$ ./experience
+--------------------------------------------------------
 I have secured over 60+ companies which includes some big tech companies like Google, Nokia, TripAdvisor, 
 SAP Concour, Dell Technologies, Seagate, Mastercard, Netgear, and many more. Also I have 2 years 
 experience in WordPress Development and Graphics Designing I have made 12+ websites using wordpress 
 and also edit and make graphics as my side hobby.
 ```
+
+[`gist/R0X4R`](https://gist.github.com/R0X4R)
 
 ### Social Media
 
