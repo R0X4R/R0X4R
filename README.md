@@ -3,7 +3,7 @@
   &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </h1>
 <p align="center">
-<img src="images/banner.png">
+<img src="image.jpg">
 </p>
 
 
@@ -51,7 +51,6 @@ and also edit and make graphics as my side hobby.
 <a href="https://www.youtube.com/EshanSingh"><img src="https://img.shields.io/static/v1?label=Youtube&message=%40EshanSingh&color=critical"></a>
 <a href="https://www.linkedin.com/in/r0x4r/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%40r0x4r&color=blueviolet"></a>
 <a href="https://medium.com/@R0X4R"><img src="https://img.shields.io/static/v1?label=Medium&message=%40R0X4R&color=ff69b4"></a>
-<a href="https://rzp.io/l/pQny7s0n"><img src="https://img.shields.io/badge/Support%20Me%20To%20Buy-OSCP-orange?style=flat-square&color=288b81"></a>
 <a href="https://ko-fi.com/r0x4r"><img src="https://img.shields.io/badge/$%20support%20me%20-donate-red"></a>
 
 ### Mostly used languages
@@ -61,11 +60,3 @@ and also edit and make graphics as my side hobby.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0X4R">
 </p> -->
-
-```bash
-Bash                     5 commits           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   94% 
-Go                       1 commits           ░░░░░░░░░░░░░░░░░░░░   2.35%
-Python                   0 commits           ░░░░░░░░░░░░░░░░░░░░   2%  
-HTML                     3 commits           ░░░░░░░░░░░░░░░░░░░░   1% 
-Others                   n commits           ░░░░░░░░░░░░░░░░░░░░   0.35%
-```
