@@ -52,11 +52,3 @@ and also edit and make graphics as my side hobby.
 <a href="https://www.linkedin.com/in/r0x4r/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%40r0x4r&color=blueviolet"></a>
 <a href="https://medium.com/@R0X4R"><img src="https://img.shields.io/static/v1?label=Medium&message=%40R0X4R&color=ff69b4"></a>
 <a href="https://ko-fi.com/r0x4r"><img src="https://img.shields.io/badge/$%20support%20me%20-donate-red"></a>
-
-### Mostly used languages
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0X4R&layout=compact" width="45%">&nbsp; 
-<img src="https://github-readme-stats.vercel.app/api?username=R0X4R&show_icons=true" width="45%">
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0X4R">
-</p> -->
