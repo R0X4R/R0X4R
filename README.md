@@ -1,54 +1,68 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0c0c0d&size=50&center=true&vCenter=true&width=450&lines=Hello+there!;+I'm+Eshan+Singh">
-  &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0c0c0d&size=45&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Eshan+Singh;Cybersecurity+Researcher;Full+Stack+Developer;Learning+Go+%26+Rust">
 </h1>
+
 <p align="center">
-<img src="image.jpg">
+  <img src="image.jpg" alt="banner">
+</p>
+
+<p align="center">
+Cybersecurity Enthusiast • Ethical Hacking • Development • Open Source
 </p>
 
 
-```go
-package main
+## About Me
 
-import (
-	"fmt"
-)
+I’m a cybersecurity enthusiast and developer with experience in penetration testing, vulnerability assessment, bug bounty hunting, and secure application development.
 
-type About map[string]string
+My interests mainly revolve around web security, API security, automation, and low-level systems. I enjoy building tools, researching vulnerabilities, and learning how systems work internally.
 
-func main() {
-	for k, v := range GetAbout() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+Alongside cybersecurity, I also work with modern web technologies including Next.js, React, Tailwind CSS, and backend development. Recently, I’ve been focusing more on Go and exploring Rust for systems programming and performance-focused applications.
 
-func GetAbout() About {
-	return About{
-	 "- About: I am a Cyber Security Enthusiast and a Hacker with an Ethical mindset. I'm having experience in Web-app security, Mobile app security, API security, Vulnerability Assessment & Penetration Testing.",
-         "- Known Tools: I am experienced with tools like BurpSuite, acunetix, Nmap, and of course with Kali Linux & some GitHub open source tools like Amass, Aquatone, etc many more for finding the vulnerabilities in the web application and mobile application.", 
-         "- Frequently: I have also made some scripts for the infosec community which helps beginners to find low-hanging bugs. I have frequently found account takeover, injections, privilege escalation, etc vulnerabilities on many programs.",
-	}
-}
-```
+I also have experience in graphic design and UI work using Photoshop, Illustrator, and After Effects.
 
-```js
-$ ./experience
---------------------------------------------------------
-I have secured over 60+ companies which includes some big tech companies like Google, Nokia, TripAdvisor, 
-SAP Concour, Dell Technologies, Seagate, Mastercard, Netgear, and many more. Also I have 2 years 
-experience in WordPress Development and Graphics Designing I have made 12+ websites using wordpress 
-and also edit and make graphics as my side hobby.
-```
 
-[`gist/R0X4R`](https://gist.github.com/R0X4R)
+## Tools & Technologies
 
-### Social Media
+- Python
+- Bash
+- JavaScript / TypeScript
+- Go
+- Rust (Learning)
+- React / Next.js
+- Tailwind CSS
+- Linux
+- Docker
+- Burp Suite
+- Nmap
+- Amass
+- ffuf
+- nuclei
 
-<a href="https://twitter.com/R0X4R/"><img src="https://img.shields.io/badge/twitter-%40R0X4R-blue.svg"></a>
-<a href="https://github.com/R0X4R?tab=followers"><img src="https://img.shields.io/badge/github-%40R0X4R-orange"></a>
-<a href="https://instagram.com/indianeshansingh"><img src="https://img.shields.io/badge/instagram-%40indianeshansingh-yellow"></a>
-<a href="https://eshansingh.com/"><img src="https://img.shields.io/badge/web-eshansingh.in-brightgreen"></a>
-<a href="https://www.youtube.com/EshanSingh"><img src="https://img.shields.io/static/v1?label=Youtube&message=%40EshanSingh&color=critical"></a>
-<a href="https://www.linkedin.com/in/r0x4r/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%40r0x4r&color=blueviolet"></a>
-<a href="https://medium.com/@R0X4R"><img src="https://img.shields.io/static/v1?label=Medium&message=%40R0X4R&color=ff69b4"></a>
-<a href="https://ko-fi.com/r0x4r"><img src="https://img.shields.io/badge/$%20support%20me%20-donate-red"></a>
+## Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/R0X4R">
+  <img src="https://img.shields.io/badge/Twitter-%40R0X4R-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+
+<a href="https://github.com/R0X4R">
+  <img src="https://img.shields.io/badge/GitHub-R0X4R-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://instagram.com/indianeshansingh">
+  <img src="https://img.shields.io/badge/Instagram-%40indianeshansingh-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/r0x4r/">
+  <img src="https://img.shields.io/badge/LinkedIn-r0x4r-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/EshanSingh">
+  <img src="https://img.shields.io/badge/YouTube-EshanSingh-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://eshansingh.com/">
+  <img src="https://img.shields.io/badge/Website-eshansingh.in-111111?style=for-the-badge">
+</a>
+</p>
