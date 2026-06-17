@@ -31,11 +31,6 @@ I also have experience in graphic design and UI work using Photoshop, Illustrato
 - Tailwind CSS
 - Linux
 - Docker
-- Burp Suite
-- Nmap
-- Amass
-- ffuf
-- nuclei
 
 ## Connect With Me
 
